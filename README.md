@@ -5,6 +5,8 @@ djc3hS7q
 
 writexo.com/shyamu
 
+AKIAQQ3JAW5VFVYOXZQS
+RxbIG4RpI4c1Qm5PuRWa+gok+Cucr2S2+nIDVenN
 
 
   first create new folder
