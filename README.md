@@ -6,7 +6,7 @@ djc3hS7q
 AKIAQQ3JAW5VGJNLT6H3
 8is9VTG9hLMF9o+bqTaVwIJ5lY+g4+3o8SG41r+O
 https://iihtedu.cloud.builder.ai/prepaid/user/dashboard
-
+https://examples.javacodegeeks.com/spring-boot-crud-with-aws-dynamodb/
 tarunkumar.chinni21@mml.local
 meN-4iSe
 https://iihtedu.cloud.builder.ai/
