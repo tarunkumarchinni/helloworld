@@ -11,6 +11,17 @@ tarunkumar.chinni21@mml.local
 meN-4iSe
 https://iihtedu.cloud.builder.ai/
 
+form suba
+FROM openjdk:11-jdk
+COPY ./build/libs/stockprice-service-0.0.1-SNAPSHOT.jar stockprice-service-0.0.1-SNAPSHOT.jar
+ENTRYPOINT ["java", "-jar","stockprice-service-0.0.1-SNAPSHOT.jar"]
+
+FROM openjdk:11-jdk-slim
+VOLUME /tmp
+ADD target/studentapp.jar app.jar
+ENTRYPOINT ["java","-jar","/app.jar"]
+
+
 writexo.com/shyamu
 
 AKIAQQ3JAW5VFVYOXZQS
