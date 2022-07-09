@@ -1,3 +1,24 @@
+http://localhost:8084/estocks/api/v1.0/market/company/register
+{
+    "id":null,
+	"companyCode": "comp123",
+    "companyName": "comahgdhug1",
+    "companyCEO":"me",
+    "companyTurnover": 1234,
+    "companyWebsite":"www.check",
+    "stockExchange":"nse"
+}
+http://localhost:8084/api/v1.0/market/stock/add/comp122
+{
+    "stockId": null,
+    "stockName": "check 3331",
+    "companyCode": "comp122",
+    "stockPrice": 123,
+    "stockDate": "01-02-2021",
+    "stockTime": ""
+}
+
+
 https://accounts.builder.ai/users/sign_in
 
 tarunkumar.chinni@mml.local
