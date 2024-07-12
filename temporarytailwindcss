@@ -1,0 +1,82 @@
+<!-- Container for the entire journey -->
+<div class="flex flex-col items-center justify-center p-10 bg-gray-100">
+  
+  <!-- Start of the journey -->
+  <div class="p-4 mb-5 bg-green-500 text-white rounded-full shadow-lg">
+    Start
+  </div>
+
+  <!-- Path (represented as a vertical line) -->
+  <div class="w-1 bg-gray-400 h-64 mb-5"></div>
+
+  <!-- Obstacles or milestones along the path -->
+  <div class="flex flex-col items-center">
+    <!-- Each obstacle/milestone -->
+    <div class="mb-5">
+      <div class="p-4 bg-blue-500 text-white rounded-full shadow-lg">
+        Milestone 1
+      </div>
+    </div>
+    <div class="w-1 bg-gray-400 h-64 mb-5"></div>
+    <div class="mb-5">
+      <div class="p-4 bg-blue-500 text-white rounded-full shadow-lg">
+        Milestone 2
+      </div>
+    </div>
+    <!-- Add as many milestones as needed -->
+  </div>
+
+  <!-- Path continues -->
+  <div class="w-1 bg-gray-400 h-64 mb-5"></div>
+
+  <!-- End of the journey -->
+  <div class="p-4 bg-red-500 text-white rounded-full shadow-lg">
+    End
+  </div>
+
+</div>
+
+
+
+
+
+
+<div class="flex justify-center items-center p-10 bg-gray-100">
+  <!-- SVG curved path -->
+  <svg viewBox="0 0 100 100" class="w-64 h-64">
+    <!-- SVG path with a quadratic Bezier curve -->
+    <path d="M 10,50 Q 50,10 90,50" stroke="blue" stroke-width="2" fill="none" />
+  </svg>
+</div>
+
+<div class="flex justify-center items-center p-10 bg-gray-100">
+  <!-- SVG half-moon curved path -->
+  <svg viewBox="0 0 100 100" class="w-64 h-64">
+    <!-- SVG path for a half-moon shape -->
+    <path d="M 90,50 A 40,40 0 0 0 10,50" stroke="blue" stroke-width="2" fill="none" />
+  </svg>
+</div>
+
+<div class="flex justify-center items-center p-10 bg-gray-100">
+  <!-- SVG half-moon curved path rotated 90 degrees -->
+  <svg viewBox="0 0 100 100" class="w-64 h-64">
+    <!-- SVG path for a half-moon shape with a transform attribute to rotate it -->
+    <path d="M 90,50 A 40,40 0 0 0 10,50" stroke="blue" stroke-width="2" fill="none" transform="rotate(90 50 50)" />
+  </svg>
+</div>
+
+<div class="flex justify-center items-center p-10 bg-gray-100">
+  <!-- SVG half-moon curved path rotated 180 degrees -->
+  <svg viewBox="0 0 100 100" class="w-64 h-64">
+    <!-- SVG path for a half-moon shape with a transform attribute to rotate it -->
+    <path d="M 90,50 A 40,40 0 0 0 10,50" stroke="blue" stroke-width="2" fill="none" transform="rotate(180 50 50)" />
+  </svg>
+</div>
+
+<div class="flex justify-center items-center p-10 bg-gray-100">
+  <!-- SVG half-moon curved path rotated 270 degrees -->
+  <svg viewBox="0 0 100 100" class="w-64 h-64">
+    <!-- SVG path for a half-moon shape with a transform attribute to rotate it -->
+    <path d="M 90,50 A 40,40 0 0 0 10,50" stroke="blue" stroke-width="2" fill="none" transform="rotate(270 50 50)" />
+  </svg>
+</div>
