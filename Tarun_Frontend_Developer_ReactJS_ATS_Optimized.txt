@@ -1,0 +1,68 @@
+CHINNI TARUN KUMAR
+Frontend Developer (React.js) | Full Stack Engineer
+Visakhapatnam, 530002 | +91 8897918589 | tarunkumarchinni@gmail.com
+
+PROFESSIONAL SUMMARY
+Frontend Developer with 7+ years of experience building responsive, high-performance web applications using React.js, Redux, TypeScript, JavaScript (ES6+), HTML5, and CSS3. Proven track record delivering scalable single-page applications (SPAs), reusable component libraries, and enterprise self-service platforms across insurance, networking, and HR domains. Skilled in full-stack delivery with Spring Boot, .NET, and Python, and cloud-native development on Azure and AWS. Strong focus on clean code, performance optimization, accessibility, and Agile/Scrum collaboration.
+
+TECHNICAL SKILLS
+Frontend: React.js, Redux, TypeScript, JavaScript (ES6+), Vue.js, Nuxt.js, HTML5, CSS3, Responsive Design, REST APIs
+Backend: Java, Spring Boot, .NET, Python, RESTful Web Services, AWS Lambda
+Cloud & DevOps: Microsoft Azure (Pipelines, App Services, Storage Accounts, Function Apps, App Insights, Managed Identities), AWS (Lambda, CloudWatch), Azure DevOps, CI/CD
+Low-Code / AI: Microsoft Copilot Studio, Power Apps, Power Automate (Workflows), M365 Copilot Agents
+Databases: MySQL, MongoDB, SQL Server, PolyBase
+Security: Okta Authentication & Authorization
+Tools: Git, Git Bash, VS Code, Eclipse, STS, Robo 3T, Azure DevOps
+Practices: Agile / Scrum, Code Review, Unit Testing, Performance Optimization
+
+PROFESSIONAL EXPERIENCE
+
+Tata Consultancy Services (TCS), Hyderabad - IT Analyst                       Jan 2023 - Present
+- Developed and maintained enterprise self-service web applications using React.js, Redux, and TypeScript, improving operational efficiency for FTE engineers and end users.
+- Built an M365 Copilot self-service agent (ESS Agent) with Microsoft Copilot Studio that resolves employee HR queries (case creation, file uploads, region-based holiday details) from a single interface, reducing manual support effort.
+- Engineered responsive dashboards for data sync, health, and process monitoring integrated with Azure Function Apps, Storage Accounts, and Pipelines.
+- Implemented PolyBase on SQL Server to securely connect on-prem servers, eliminating stored credentials and strengthening application security.
+- Collaborated in Agile/Scrum teams across the full SDLC - design, development, code review, and deployment via Azure DevOps CI/CD.
+
+Cognizant, Chennai - Software Engineer                                        Jan 2019 - Dec 2022
+- Delivered customer-facing insurance web applications using React.js, Vue.js, Spring Boot, Python, and AWS Lambda.
+- Designed and developed a reusable custom spell-checker component that detects misspellings and suggests corrections, earning client appreciation for improving message quality.
+- Built dynamic PDF generation for web and mobile insurance products using EJS and Handlebars templates with MongoDB.
+- Participated in internal innovation initiatives using VR/AR for customer surveys; shortlisted in the company's Top 5 and received a Digital Engineering Award.
+
+KEY PROJECTS
+
+ESS Agent (AI / M365 Copilot) - Microsoft Copilot Studio, Flows, M365, Topics, Knowledge Sources, .NET, Azure Pipelines, Web Services, Storage Accounts
+  Employee Self-Service AI agent - one of the M365 Copilot agents - that answers employee queries with simple, relevant responses, reducing manual effort by surfacing details from multiple applications in a single place. Features include case creation, file uploads, and region-based holiday details for each employee.
+
+PDM Integration - Dashboard & Disability Applications - React.js, Redux, TypeScript, .NET, Azure Function Apps, Pipelines, Web Services, Storage Accounts
+  Dashboard Application: a self-service web app enabling FTE engineers to use functionalities such as data sync monitor, health sync monitor, and process monitor, pulling data from Azure services. Disability Application: lets users provide consent on their disability status in the portal to stay in sync with the internal Employee Central application.
+
+Headtrax - SQL Server, PolyBase, .NET, Azure Managed Identities, On-Premise Server, Windows Services, ICM
+  A self-service thick- and thin-client application that lets FTEs and vendors track v-alias creation status and other updates from the SAP team, including user details and the current status of generated employee profiles.
+
+E-360 (Network OS Code Upgrade - NCU) - React.js, Redux, TypeScript, .NET, Azure Logic Apps, SQL Server, SQL Database
+  A persona-based self-service web app for lead engineers. Admin: configure freezing-window time and threshold limits for scheduling devices. ITM Services: perform approvals and workflow items. Engineering Activity: create activities and schedule devices based on their service lines for selected devices.
+
+CMOS - Corporate Markets Operating System - React.js, Spring Boot
+  A centralized self-service platform to maintain centralized data transfer via multiple maintenance screens (e.g., fund master). Supports fund transactions on policies - subscription, redemption, reallocation, and death claims - with approve/reject/cancel workflows, plus policy search to update policy-holder details under the same workflow controls.
+
+Agent Desktop - Vue.js, Python, AWS Lambda, AWS CloudWatch
+  A web application where users view policy lists, policy details, associated policies, alerts, documents, and billing details. Includes a Message Center where users reply to messages - interacting with two external applications (AWD, e-service) via messaging queues - and a custom spell-checker module that detects incorrect words and suggests corrections before submitting a query.
+
+GSSP Chile & GSSP Sales EMEA - GSSP Composer, Robo 3T, MongoDB, EJS, Handlebars
+  A digital insurance application for different products, generating dynamic PDFs across web and mobile using GSSP Composer with EJS and Handlebars templates and MongoDB.
+
+EDUCATION
+B.Tech - MVGR College of Engineering, Vizianagaram (73.40%)                   Sep 2014 - Apr 2018
+Intermediate - Sri Chaitanya Junior College, Visakhapatnam (86.90%)
+SSC - Oxford Talent School, Visakhapatnam (8.8 CGPA)
+
+ACHIEVEMENTS
+- Received the Digital Engineering Award for technical contribution and delivery excellence.
+- Shortlisted in company Top 5 for an internal VR/AR innovation improving insurance customer surveys.
+- Recognized for a custom spell-checker component adopted to enhance customer usability.
+- Implemented PolyBase on SQL Server, improving security by removing credential-based on-prem connections.
+
+LANGUAGES
+English | Hindi | Telugu
